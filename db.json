@@ -1,0 +1,24 @@
+{
+    "Terror": [
+      { "id": 1, "nomes": "Telefone Preto", "duracao": "1h 42m", "diretor": "Scott Derrickson", "ano de lancamento": "julho de 2022" },
+      { "id": 2, "nomes": "A Entidade", "duracao": "1h 50m", "diretor": "Scott Derrickson","ano de lancamento": "outubro de 2012"},
+      { "id": 3, "nomes": "Invocação do Mal", "duracao": "1h 52m", "diretor": "Geoffrey S. Grimsman","ano de lancamento": "setembro de 2013" },
+      { "id": 4, "nomes": "Nos", "duracao": "2h 1m", "diretor": "Jordan Peele","ano de lancamento": "março de 2019" },
+      { "id": 5, "nomes": "Corra!", "duracao": "1h 44m", "diretor": "Jordan Peele","ano de lancamento": "maio de 2017" }
+    ],
+    "Acao": [
+      { "id": 1, "nomes": "Velozes e Furiosos 9", "duracao": "2h 23m", "diretor": "Justin Lin","ano de lancamento": " junho de 2021" },
+      { "id": 2, "nomes": "Venom: Tempo de Carnificina", "duracao": "1h 45m", "diretor": "Andy Serkis","ano de lancamento": "outubro de 2021" },
+      { "id": 3, "nomes": "Wolverine - Imortal", "duracao": "2h 6m", "diretor": "James Mangold","ano de lancamento": "julho de 2013" },
+      { "id": 4, "nomes": "Mortal Kombat", "duracao": "1h 50m", "diretor": "Simon McQuoid","ano de lancamento": "maio de 2021" },
+      { "id": 5, "nomes": "Homem-Aranha: Sem Volta para Casa", "duracao": "2h 37m", "diretor": "Jon Watts","ano de lancamento": "dezembro de 2021" }
+    ],
+    "Romance": [
+        { "id": 1, "nomes": "Crepúsculo", "duracao": "2h 1m", "diretor": " Catherine Hardwicke","ano de lancamento": "dezembro de 2008" },
+        { "id": 2, "nomes": "Amor de Redencao", "duracao": "2h 14m", "diretor": "D. J. Caruso","ano de lancamento": "junho de 2022" },
+        { "id": 3, "nomes": "Ela", "duracao": "2h 6m", "diretor": "Spike Jonze","ano de lancamento": "fevereiro de 2014"},
+        { "id": 4, "nomes": "A Culpa e das Estrelas", "duracao": "2h 6m", "diretor": "Josh Boone","ano de lancamento": "junho de 2014"},
+        { "id": 5, "nomes": "Através da Minha Janela", "duracao": "1h 56m", "diretor": "Marcal Fores","ano de lancamento": "fevereiro de 2022" }
+      ]
+                  
+  }
